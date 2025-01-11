@@ -7,10 +7,7 @@
 		"requested_loan_amount": "42000000",
 		"collateral_estimate": "54000000",
 		"loan_term": 31,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "5400000.0",
-		"installment": "1774900",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30000qw3j5nk8m9p1"
 	},
 	{
 		"monthly_income": "11000000",
@@ -20,10 +17,7 @@
 		"requested_loan_amount": "9000000",
 		"collateral_estimate": "10000000",
 		"loan_term": 20,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "6950000.0",
-		"installment": "540000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30001qw3j8nk9m9p2"
 	},
 	{
 		"monthly_income": "13500000",
@@ -33,10 +27,7 @@
 		"requested_loan_amount": "12000000",
 		"collateral_estimate": "16000000",
 		"loan_term": 11,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "4350000.0",
-		"installment": "1211000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30002qw3j2nk0m9p3"
 	},
 	{
 		"monthly_income": "9300000",
@@ -46,10 +37,7 @@
 		"requested_loan_amount": "42000000",
 		"collateral_estimate": "36000000",
 		"loan_term": 28,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "6150000.0",
-		"installment": "1920000",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30003qw3j4nk1m9p4"
 	},
 	{
 		"monthly_income": "19000000",
@@ -59,10 +47,7 @@
 		"requested_loan_amount": "18000000",
 		"collateral_estimate": "20000000",
 		"loan_term": 22,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "3000000.0",
-		"installment": "998200",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30004qw3j7nk2m9p5"
 	},
 	{
 		"monthly_income": "12750000",
@@ -72,10 +57,7 @@
 		"requested_loan_amount": "30000000",
 		"collateral_estimate": "37000000",
 		"loan_term": 19,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "3750000.0",
-		"installment": "1879000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30005qw3j9nk3m9p6"
 	},
 	{
 		"monthly_income": "14250000",
@@ -85,10 +67,7 @@
 		"requested_loan_amount": "39000000",
 		"collateral_estimate": "52000000",
 		"loan_term": 34,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "10500000.0",
-		"installment": "1537100",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30006qw3j1nk4m9p7"
 	},
 	{
 		"monthly_income": "7950000",
@@ -98,10 +77,7 @@
 		"requested_loan_amount": "12000000",
 		"collateral_estimate": "12000000",
 		"loan_term": 32,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "4350000.0",
-		"installment": "495000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30007qw3j3nk5m9p8"
 	},
 	{
 		"monthly_income": "11850000",
@@ -111,10 +87,7 @@
 		"requested_loan_amount": "15000000",
 		"collateral_estimate": "13000000",
 		"loan_term": 14,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "3750000.0",
-		"installment": "1221500",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30008qw3j6nk6m9p9"
 	},
 	{
 		"monthly_income": "14550000",
@@ -124,10 +97,7 @@
 		"requested_loan_amount": "45000000",
 		"collateral_estimate": "36000000",
 		"loan_term": 12,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "10650000.0",
-		"installment": "4200000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30009qw3j8nk7m9p0"
 	},
 	{
 		"monthly_income": "10200000",
@@ -137,10 +107,7 @@
 		"requested_loan_amount": "21000000",
 		"collateral_estimate": "30000000",
 		"loan_term": 33,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "750000.0",
-		"installment": "846400",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30010qw3j0nk8m9p1"
 	},
 	{
 		"monthly_income": "11000000",
@@ -150,10 +117,7 @@
 		"requested_loan_amount": "45000000",
 		"collateral_estimate": "66000000",
 		"loan_term": 13,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "3350000.0",
-		"installment": "3911600",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30011qw3j2nk9m9p2"
 	},
 	{
 		"monthly_income": "6450000",
@@ -163,10 +127,7 @@
 		"requested_loan_amount": "42000000",
 		"collateral_estimate": "49000000",
 		"loan_term": 27,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "1950000.0",
-		"installment": "1975600",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30012qw3j5nk0m9p3"
 	},
 	{
 		"monthly_income": "6300000",
@@ -176,10 +137,7 @@
 		"requested_loan_amount": "27000000",
 		"collateral_estimate": "28000000",
 		"loan_term": 21,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "2550000.0",
-		"installment": "1555800",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30013qw3j7nk1m9p4"
 	},
 	{
 		"monthly_income": "14850000",
@@ -189,10 +147,7 @@
 		"requested_loan_amount": "27000000",
 		"collateral_estimate": "33000000",
 		"loan_term": 18,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "4500000.0",
-		"installment": "1770000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30014qw3j9nk2m9p5"
 	},
 	{
 		"monthly_income": "12300000",
@@ -202,10 +157,7 @@
 		"requested_loan_amount": "12000000",
 		"collateral_estimate": "17000000",
 		"loan_term": 23,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "6300000.0",
-		"installment": "641800",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30015qw3j1nk3m9p6"
 	},
 	{
 		"monthly_income": "8550000",
@@ -215,10 +167,7 @@
 		"requested_loan_amount": "12000000",
 		"collateral_estimate": "10000000",
 		"loan_term": 36,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "4550000.0",
-		"installment": "453400",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30016qw3j4nk4m9p7"
 	},
 	{
 		"monthly_income": "11700000",
@@ -228,10 +177,7 @@
 		"requested_loan_amount": "45000000",
 		"collateral_estimate": "41000000",
 		"loan_term": 36,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "150000.0",
-		"installment": "1700000",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30017qw3j6nk5m9p8"
 	},
 	{
 		"monthly_income": "16000000",
@@ -241,10 +187,7 @@
 		"requested_loan_amount": "36000000",
 		"collateral_estimate": "37000000",
 		"loan_term": 13,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "12250000.0",
-		"installment": "3129300",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30018qw3j8nk6m9p9"
 	},
 	{
 		"monthly_income": "8100000",
@@ -254,10 +197,7 @@
 		"requested_loan_amount": "39000000",
 		"collateral_estimate": "50000000",
 		"loan_term": 21,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "2100000.0",
-		"installment": "2247200",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30019qw3j0nk7m9p0"
 	},
 	{
 		"monthly_income": "8850000",
@@ -267,10 +207,7 @@
 		"requested_loan_amount": "36000000",
 		"collateral_estimate": "47000000",
 		"loan_term": 12,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "5700000.0",
-		"installment": "3360000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30020qw3j3nk8m9p1"
 	},
 	{
 		"monthly_income": "13050000",
@@ -280,10 +217,7 @@
 		"requested_loan_amount": "24000000",
 		"collateral_estimate": "20000000",
 		"loan_term": 19,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "1800000.0",
-		"installment": "1503200",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30021qw3j5nk9m9p2"
 	},
 	{
 		"monthly_income": "6750000",
@@ -293,10 +227,7 @@
 		"requested_loan_amount": "21000000",
 		"collateral_estimate": "28000000",
 		"loan_term": 10,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "1500000.0",
-		"installment": "2310000",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30022qw3j7nk0m9p3"
 	},
 	{
 		"monthly_income": "13000000",
@@ -306,10 +237,7 @@
 		"requested_loan_amount": "33000000",
 		"collateral_estimate": "36000000",
 		"loan_term": 8,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "9400000.0",
-		"installment": "4455000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30023qw3j9nk1m9p4"
 	},
 	{
 		"monthly_income": "15000000",
@@ -319,10 +247,7 @@
 		"requested_loan_amount": "39000000",
 		"collateral_estimate": "36000000",
 		"loan_term": 36,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "8850000.0",
-		"installment": "1473400",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30024qw3j1nk2m9p5"
 	},
 	{
 		"monthly_income": "9150000",
@@ -332,10 +257,7 @@
 		"requested_loan_amount": "9000000",
 		"collateral_estimate": "11000000",
 		"loan_term": 36,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "1350000.0",
-		"installment": "340000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30025qw3j4nk3m9p6"
 	},
 	{
 		"monthly_income": "12300000",
@@ -345,10 +267,7 @@
 		"requested_loan_amount": "21000000",
 		"collateral_estimate": "23000000",
 		"loan_term": 35,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "7050000.0",
-		"installment": "810000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30026qw3j6nk4m9p7"
 	},
 	{
 		"monthly_income": "7650000",
@@ -358,10 +277,7 @@
 		"requested_loan_amount": "18000000",
 		"collateral_estimate": "22000000",
 		"loan_term": 33,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "600000.0",
-		"installment": "725500",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30027qw3j8nk5m9p8"
 	},
 	{
 		"monthly_income": "12000000",
@@ -371,10 +287,7 @@
 		"requested_loan_amount": "42000000",
 		"collateral_estimate": "56000000",
 		"loan_term": 27,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "1800000.0",
-		"installment": "1975600",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30028qw3j0nk6m9p9"
 	},
 	{
 		"monthly_income": "13350000",
@@ -384,10 +297,7 @@
 		"requested_loan_amount": "30000000",
 		"collateral_estimate": "37000000",
 		"loan_term": 32,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "8400000.0",
-		"installment": "1237500",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30029qw3j3nk7m9p0"
 	},
 	{
 		"monthly_income": "9000000",
@@ -397,10 +307,7 @@
 		"requested_loan_amount": "9000000",
 		"collateral_estimate": "8000000",
 		"loan_term": 33,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "2850000.0",
-		"installment": "362800",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30030qw3j5nk8m9p1"
 	},
 	{
 		"monthly_income": "7050000",
@@ -410,10 +317,7 @@
 		"requested_loan_amount": "21000000",
 		"collateral_estimate": "26000000",
 		"loan_term": 23,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "4500000.0",
-		"installment": "1123100",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30031qw3j7nk9m9p2"
 	},
 	{
 		"monthly_income": "15000000",
@@ -423,10 +327,7 @@
 		"requested_loan_amount": "30000000",
 		"collateral_estimate": "42000000",
 		"loan_term": 33,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "3600000.0",
-		"installment": "1209100",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30032qw3j9nk0m9p3"
 	},
 	{
 		"monthly_income": "8850000",
@@ -436,10 +337,7 @@
 		"requested_loan_amount": "45000000",
 		"collateral_estimate": "60000000",
 		"loan_term": 6,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "1500000.0",
-		"installment": "7950000",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30033qw3j1nk1m9p4"
 	},
 	{
 		"monthly_income": "8550000",
@@ -449,10 +347,7 @@
 		"requested_loan_amount": "9000000",
 		"collateral_estimate": "9000000",
 		"loan_term": 7,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "4350000.0",
-		"installment": "1375800",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30034qw3j4nk2m9p5"
 	},
 	{
 		"monthly_income": "13650000",
@@ -462,10 +357,7 @@
 		"requested_loan_amount": "24000000",
 		"collateral_estimate": "24000000",
 		"loan_term": 12,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "9300000.0",
-		"installment": "2240000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30035qw3j6nk3m9p6"
 	},
 	{
 		"monthly_income": "10500000",
@@ -475,10 +367,7 @@
 		"requested_loan_amount": "33000000",
 		"collateral_estimate": "35000000",
 		"loan_term": 31,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "4950000.0",
-		"installment": "1394600",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30036qw3j8nk4m9p7"
 	},
 	{
 		"monthly_income": "5700000",
@@ -488,10 +377,7 @@
 		"requested_loan_amount": "36000000",
 		"collateral_estimate": "31000000",
 		"loan_term": 32,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "2700000.0",
-		"installment": "1485000",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30037qw3j0nk5m9p8"
 	},
 	{
 		"monthly_income": "13050000",
@@ -501,10 +387,7 @@
 		"requested_loan_amount": "45000000",
 		"collateral_estimate": "59000000",
 		"loan_term": 26,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "6600000.0",
-		"installment": "2180800",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30038qw3j3nk6m9p9"
 	},
 	{
 		"monthly_income": "10200000",
@@ -514,10 +397,7 @@
 		"requested_loan_amount": "21000000",
 		"collateral_estimate": "21000000",
 		"loan_term": 34,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "2700000.0",
-		"installment": "827700",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30039qw3j5nk7m9p0"
 	},
 	{
 		"monthly_income": "7800000",
@@ -527,10 +407,7 @@
 		"requested_loan_amount": "18000000",
 		"collateral_estimate": "16000000",
 		"loan_term": 16,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "5100000.0",
-		"installment": "1305000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30040qw3j7nk8m9p1"
 	},
 	{
 		"monthly_income": "15000000",
@@ -540,10 +417,7 @@
 		"requested_loan_amount": "9000000",
 		"collateral_estimate": "7000000",
 		"loan_term": 17,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "11850000.0",
-		"installment": "619500",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30041qw3j9nk9m9p2"
 	},
 	{
 		"monthly_income": "14400000",
@@ -553,10 +427,7 @@
 		"requested_loan_amount": "15000000",
 		"collateral_estimate": "21000000",
 		"loan_term": 32,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "11400000.0",
-		"installment": "618800",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30042qw3j1nk0m9p3"
 	},
 	{
 		"monthly_income": "12000000",
@@ -566,10 +437,7 @@
 		"requested_loan_amount": "18000000",
 		"collateral_estimate": "24000000",
 		"loan_term": 10,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "3000000.0",
-		"installment": "1980000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30043qw3j4nk1m9p4"
 	},
 	{
 		"monthly_income": "13350000",
@@ -579,10 +447,7 @@
 		"requested_loan_amount": "33000000",
 		"collateral_estimate": "41000000",
 		"loan_term": 18,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "450000.0",
-		"installment": "2163400",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30044qw3j6nk2m9p5"
 	},
 	{
 		"monthly_income": "10800000",
@@ -592,10 +457,7 @@
 		"requested_loan_amount": "12000000",
 		"collateral_estimate": "12000000",
 		"loan_term": 30,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "5100000.0",
-		"installment": "520000",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30045qw3j8nk3m9p6"
 	},
 	{
 		"monthly_income": "19000000",
@@ -605,10 +467,7 @@
 		"requested_loan_amount": "24000000",
 		"collateral_estimate": "32000000",
 		"loan_term": 8,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "1600000.0",
-		"installment": "3240000",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30046qw3j0nk4m9p7"
 	},
 	{
 		"monthly_income": "13000000",
@@ -618,10 +477,7 @@
 		"requested_loan_amount": "27000000",
 		"collateral_estimate": "22000000",
 		"loan_term": 27,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "9850000.0",
-		"installment": "1270000",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30047qw3j3nk5m9p8"
 	},
 	{
 		"monthly_income": "14000000",
@@ -631,10 +487,7 @@
 		"requested_loan_amount": "33000000",
 		"collateral_estimate": "31000000",
 		"loan_term": 23,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "5300000.0",
-		"installment": "1764800",
-		"credit_worthiness": false
+		"customer_id": "clhz1x4g30048qw3j5nk6m9p9"
 	},
 	{
 		"monthly_income": "12000000",
@@ -644,9 +497,6 @@
 		"requested_loan_amount": "18000000",
 		"collateral_estimate": "24000000",
 		"loan_term": 22,
-		"customer_id": "cm57o3nos0000dijxyec3i3nx",
-		"monthly_surplus": "6900000.0",
-		"installment": "998200",
-		"credit_worthiness": true
+		"customer_id": "clhz1x4g30049qw3j7nk7m9p0"
 	}
 ]
