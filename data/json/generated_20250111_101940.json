@@ -1,0 +1,502 @@
+[
+    {
+        "monthly_income": "10050000",
+        "monthly_expenses": "6000000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "27000000",
+        "collateral_estimate": "22000000",
+        "loan_term": 28,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "14250000",
+        "monthly_expenses": "2400000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "39000000",
+        "collateral_estimate": "46000000",
+        "loan_term": 8,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "13800000",
+        "monthly_expenses": "9900000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "24000000",
+        "collateral_estimate": "35000000",
+        "loan_term": 12,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "7650000",
+        "monthly_expenses": "6450000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "45000000",
+        "collateral_estimate": "48000000",
+        "loan_term": 21,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "11000000",
+        "monthly_expenses": "4000000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "15000000",
+        "collateral_estimate": "20000000",
+        "loan_term": 13,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "7350000",
+        "monthly_expenses": "4050000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "15000000",
+        "collateral_estimate": "21000000",
+        "loan_term": 23,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "10200000",
+        "monthly_expenses": "9150000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "45000000",
+        "collateral_estimate": "66000000",
+        "loan_term": 10,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "14550000",
+        "monthly_expenses": "3150000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "24000000",
+        "collateral_estimate": "25000000",
+        "loan_term": 17,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "13050000",
+        "monthly_expenses": "11850000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "12000000",
+        "collateral_estimate": "9000000",
+        "loan_term": 28,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "6000000",
+        "monthly_expenses": "4050000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "30000000",
+        "collateral_estimate": "29000000",
+        "loan_term": 15,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "11250000",
+        "monthly_expenses": "10500000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "30000000",
+        "collateral_estimate": "37000000",
+        "loan_term": 34,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "6150000",
+        "monthly_expenses": "3000000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "27000000",
+        "collateral_estimate": "35000000",
+        "loan_term": 15,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "14100000",
+        "monthly_expenses": "10200000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "33000000",
+        "collateral_estimate": "47000000",
+        "loan_term": 7,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "12600000",
+        "monthly_expenses": "4050000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "21000000",
+        "collateral_estimate": "28000000",
+        "loan_term": 22,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "10000000",
+        "monthly_expenses": "3450000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "21000000",
+        "collateral_estimate": "28000000",
+        "loan_term": 20,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "13800000",
+        "monthly_expenses": "4000000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "30000000",
+        "collateral_estimate": "24000000",
+        "loan_term": 12,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "13350000",
+        "monthly_expenses": "10650000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "51000000",
+        "loan_term": 6,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "14000000",
+        "monthly_expenses": "9900000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "33000000",
+        "collateral_estimate": "40000000",
+        "loan_term": 25,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "13000000",
+        "monthly_expenses": "4800000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "30000000",
+        "collateral_estimate": "44000000",
+        "loan_term": 26,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "15000000",
+        "monthly_expenses": "13950000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "45000000",
+        "collateral_estimate": "40000000",
+        "loan_term": 17,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "16000000",
+        "monthly_expenses": "9000000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "39000000",
+        "collateral_estimate": "34000000",
+        "loan_term": 8,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "9900000",
+        "monthly_expenses": "7000000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "58000000",
+        "loan_term": 14,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "17000000",
+        "monthly_expenses": "2250000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "24000000",
+        "collateral_estimate": "30000000",
+        "loan_term": 9,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "5700000",
+        "monthly_expenses": "2250000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "9000000",
+        "collateral_estimate": "8000000",
+        "loan_term": 24,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "11000000",
+        "monthly_expenses": "2700000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "15000000",
+        "collateral_estimate": "13000000",
+        "loan_term": 32,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "7650000",
+        "monthly_expenses": "6600000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "18000000",
+        "collateral_estimate": "19000000",
+        "loan_term": 14,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "12900000",
+        "monthly_expenses": "5100000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "51000000",
+        "loan_term": 32,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "9750000",
+        "monthly_expenses": "3000000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "18000000",
+        "collateral_estimate": "19000000",
+        "loan_term": 11,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "10650000",
+        "monthly_expenses": "6150000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "39000000",
+        "collateral_estimate": "42000000",
+        "loan_term": 7,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "11550000",
+        "monthly_expenses": "2700000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "21000000",
+        "collateral_estimate": "27000000",
+        "loan_term": 34,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "15000000",
+        "monthly_expenses": "7950000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "39000000",
+        "collateral_estimate": "40000000",
+        "loan_term": 28,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "8100000",
+        "monthly_expenses": "5250000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "9000000",
+        "collateral_estimate": "10000000",
+        "loan_term": 19,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "6900000",
+        "monthly_expenses": "6300000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "12000000",
+        "collateral_estimate": "12000000",
+        "loan_term": 35,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "6600000",
+        "monthly_expenses": "5850000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "18000000",
+        "collateral_estimate": "25000000",
+        "loan_term": 10,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "11100000",
+        "monthly_expenses": "6600000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "12000000",
+        "collateral_estimate": "17000000",
+        "loan_term": 34,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "7050000",
+        "monthly_expenses": "3000000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "61000000",
+        "loan_term": 15,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "6600000",
+        "monthly_expenses": "4200000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "48000000",
+        "loan_term": 27,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "10000000",
+        "monthly_expenses": "3450000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "59000000",
+        "loan_term": 21,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "8000000",
+        "monthly_expenses": "3000000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "39000000",
+        "collateral_estimate": "50000000",
+        "loan_term": 21,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "18000000",
+        "monthly_expenses": "6000000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "45000000",
+        "collateral_estimate": "41000000",
+        "loan_term": 21,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "12450000",
+        "monthly_expenses": "7800000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "52000000",
+        "loan_term": 10,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "9450000",
+        "monthly_expenses": "4000000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "9000000",
+        "collateral_estimate": "8000000",
+        "loan_term": 31,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "10500000",
+        "monthly_expenses": "5100000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "21000000",
+        "collateral_estimate": "28000000",
+        "loan_term": 23,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "13500000",
+        "monthly_expenses": "4950000",
+        "employment_status": false,
+        "previous_credit_history": true,
+        "requested_loan_amount": "45000000",
+        "collateral_estimate": "36000000",
+        "loan_term": 24,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "8250000",
+        "monthly_expenses": "2850000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "27000000",
+        "collateral_estimate": "30000000",
+        "loan_term": 16,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "9900000",
+        "monthly_expenses": "8850000",
+        "employment_status": true,
+        "previous_credit_history": false,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "43000000",
+        "loan_term": 20,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "9000000",
+        "monthly_expenses": "6600000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "39000000",
+        "collateral_estimate": "56000000",
+        "loan_term": 27,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "7050000",
+        "monthly_expenses": "5100000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "42000000",
+        "collateral_estimate": "60000000",
+        "loan_term": 8,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "6000000",
+        "monthly_expenses": "2400000",
+        "employment_status": true,
+        "previous_credit_history": true,
+        "requested_loan_amount": "18000000",
+        "collateral_estimate": "14000000",
+        "loan_term": 13,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    },
+    {
+        "monthly_income": "12150000",
+        "monthly_expenses": "10050000",
+        "employment_status": false,
+        "previous_credit_history": false,
+        "requested_loan_amount": "18000000",
+        "collateral_estimate": "20000000",
+        "loan_term": 27,
+        "customer_id": "cm57o3nos0000dijxyec3i3nx"
+    }
+]
